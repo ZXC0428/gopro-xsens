@@ -1,0 +1,43 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.venv/
+
+# Virtual environments
+# Local/private configuration
+config.json
+*.local
+*.secret
+*.secrets
+gopro_wifi_temp.xml
+
+# GoPro & Xsens Data Outputs (Large Files)
+video_output/
+xsens_output/
+video_output_*.zip
+*.zip
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.avi
+*.AVI
+*.mkv
+*.MKV
+*.csv
+
+# Spreadsheets and other measurement exports
+*.xls
+*.XLS
+*.xlsx
+*.XLSX
+*.xlsm
+*.XLSM
+
+# Known private/local names
+*excel5*
+*xo42k7*
